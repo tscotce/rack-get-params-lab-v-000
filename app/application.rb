@@ -36,7 +36,10 @@ class Application
       @@cart << item
       return "added #{item}\n"
     else 
+<<<<<<< HEAD
       return "We don't have that item"
+=======
+>>>>>>> e89d183c903abca6988b5e7f035f90402bc13c1e
     end
   end
   
